@@ -29,9 +29,15 @@ I am a motivated and passionate individual, continuously seeking to apply and en
 ## 🎓 Education
 
 - **Bachelor of Technology (B.Tech)** in **Artificial Intelligence and Data Science**  
-  - **Institute**: [Your College Name]  
-  - **CGPA**: 74.4%  
+  - **Institute**: Sharad Institute of Technology College of Engineering, Ichalkaranji, Maharashtra  
+  - **Percentage**: 74.4% 
   - **Graduation Year**: 2024
+
+
+- **Diploma in Electronics & Telecommunication Engineering**
+  - **Institute**: Sharad Institute of Technology Polytechnic, Ichalkaranji, Maharashtra
+  - **Percentage**: 87.53  
+  - **Completion Year**: 2021
 
 ---
 
