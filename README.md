@@ -107,7 +107,7 @@ What’s your favorite game? Let’s talk strategy! 🧠✨
 
 ## 📈 I'm Open To
 
-- **Internships** in **AI/ML**, **Data Science**, and **Web Development**.
+- **Internships** in **AI/ML**, **Data Science**,**software development**, and **Web Development**.
 - **Collaborations** on **Open-Source** projects.
 - **Freelance Opportunities** for **Tech Startups** or **AI Projects**.
 
