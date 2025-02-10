@@ -1,6 +1,6 @@
 # Hello, I'm Ritikesh Shankar Machhewar 👨‍💻🚀
 
-![Profile Picture](https://i.pinimg.com/564x/bd/06/94/bd069482a65959fc95c3f579b4883c13.jpg)
+![Profile Picture](https://drive.google.com/file/d/1HzUWhio-g9cSa6nyufa6QAkjTatH8NGd/view?usp=sharing)
 
 ---
 
