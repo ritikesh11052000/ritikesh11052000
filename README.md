@@ -83,7 +83,7 @@ I am open to exploring roles where I can apply my skills in **AI**, **Machine Le
 - **Email**: ritikeshmachhewar@gmail.com
 - **LinkedIn**: [Ritikesh Machhewar](https://www.linkedin.com/in/ritikesh-machhewar-36381b179/)
 - **GitHub**: [Ritikesh Machhewar](https://github.com/ritikesh11052000)
-- **Portfolio**: [ritikeshportfolio.com](https://ritikesh11052000.github.io/Portfolio/)
+- **Portfolio**: [Portfilio](https://ritikesh11052000.github.io/Portfolio/)
 
 ---
 
