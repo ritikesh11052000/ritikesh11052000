@@ -1,4 +1,4 @@
-# Hello, I'm Ritikesh Shankar Machhewar 👨‍💻🚀
+# Hello, I'm Ritikesh Shankar Machhewar 👨‍💻🚀 
 
 ![Profile Picture](ritikesh.jpg)
 
@@ -6,10 +6,11 @@
 
 ## 📚 About Me
 
-I'm a **Tech Enthusiast** and a **Student** of **Artificial Intelligence & Data Science** at Sharad Institute of Technology. I’m passionate about transforming complex problems into actionable, data-driven solutions using the power of **Machine Learning**, **AI**, and **Blockchain**. On a journey to **solve real-world problems** and make a positive impact through **technology**. 🌍✨
+I'm a **Tech Enthusiast** and a **Software Developer** with a strong foundation in **Artificial Intelligence**, **Machine Learning**, **Data Science**, and **Blockchain**. I’m passionate about transforming complex problems into actionable, data-driven solutions. I am currently pursuing my **Bachelor of Technology** in **AI & Data Science** at Sharad Institute of Technology, and I’m eager to contribute to real-world solutions using cutting-edge technologies.
 
-When I’m not coding, I’m either solving **puzzles**, playing **chess**, or diving into **video games**. 🧩🎮  
-Ready to take on the **next big challenge** in the tech world! 😎
+I have hands-on experience working with various technologies like **Python**, **Java**, **C++**, and **SQL**. Whether it's developing scalable software solutions, integrating **machine learning models**, or exploring **cloud computing**, I’m always ready to take on the next big challenge. 🚀
+
+When I’m not coding, I’m solving **puzzles**, playing **chess**, or diving into **video games**. 🧩🎮
 
 ---
 
@@ -32,6 +33,42 @@ I’m skilled in an array of tools and technologies and constantly learning new 
 
 ---
 
+## 🎓 Education
+
+- **Bachelor of Technology in AI & Data Science**  
+  Sharad Institute of Technology College of Engineering, Ichalkaranji, Maharashtra  
+  Graduation: May 2024 | CGPA: 7.44
+  
+- **Diploma in Electronics & Telecommunication Engineering**  
+  Sharad Institute of Technology Polytechnic, Ichalkaranji, Maharashtra  
+  Completion: May 2021 | Percentage: 87.53%
+
+- **High School**  
+  Marathi Medium High School, Ichalkaranji, Maharashtra  
+  Completion: June 2017 | Percentage: 61.40%
+
+---
+
+## 💼 Work Experience
+
+**Data Science Intern**  
+SparkLabIT Solutions — Jan 2024 – Jun 2024  
+- Designed and implemented scalable software solutions using **Python** and **SQL**.  
+- Collaborated with cross-functional teams to ensure project deliverables met quality standards.  
+- Conducted debugging and performance optimization to enhance application efficiency.
+
+**Python-ML Intern**  
+QSective Solutions — Apr 2023 – Jun 2023  
+- Developed machine learning pipelines and integrated them into existing systems.  
+- Automated data processing tasks using **Python** scripts.
+
+**AWS Academy AI-ML Virtual Intern**  
+Amazon Web Services (AWS) — Dec 2022 – Feb 2023  
+- Gained hands-on experience in deploying **AI/ML models** on cloud platforms.  
+- Enhanced application scalability and performance using cloud-based solutions.
+
+---
+
 ## 🚀 Key Projects
 
 ### **🔗 Blockchain-Driven Food Supply Chain Management**  
@@ -46,36 +83,24 @@ Using **CNN** and **Computer Vision**, I built a **real-time system** that alert
 Leveraged **Machine Learning** to predict stock market trends and assist investors in making data-driven decisions. 📊  
 🔗 [Explore the repository!](#)
 
----
+### **Customer Churn Prediction**  
+Built a machine learning model to predict customer churn based on transactional data.  
+- **Tools:** Python, Pandas, Scikit-learn
 
-## 💼 Experience
-
-**Data Science Intern** (Jan 2024 – Jun 2024)  
-Worked with real-world datasets, developing insights through **data analysis**, **visualization**, and **machine learning models**. 📈  
-- **Tools:** Python, Pandas, Matplotlib, Scikit-learn
-
-**Python-ML Intern** (Apr 2023 – Jun 2023)  
-Created **classification models** using **Random Forest** and **CNN** algorithms. Built projects from scratch, taking them from prototype to deployment. 🤖  
-- **Tools:** Python, TensorFlow, Keras
-
-**AWS Academy AI-ML Virtual Internship** (Dec 2022 – Feb 2023)  
-Gained foundational knowledge of **cloud computing**, **AWS** services, and their application in AI/ML projects. ☁️  
-- **Tools:** AWS, SageMaker, Python
+### **Food Supply Chain Using Blockchain Technology**  
+Implemented a **Blockchain-based** food supply chain management system, improving traceability, transparency, and efficiency.  
+- **Result:** 20% increase in traceability accuracy.
 
 ---
 
 ## 🏅 Certifications
 
-- **Machine Learning & Data Science**  
-  - **AWS Academy** – Machine Learning Foundations  
-  - **Infosys Springboard** – AI with Python  
-  - **IBM Cognitive Class** – Data Science Fundamentals  
-- **Cloud Computing & Programming**  
-  - **AWS Academy** – Cloud Foundations  
-  - **Udemy** – Complete C++ Programming  
-  - **Udemy** – Learn HTML, CSS, and JavaScript  
-- **Problem Solving & Algorithms**  
-  - **Hackerrank** – Problem Solving Challenges  
+- **Salesforce Certified AI Specialist**  
+- **Salesforce Certified AI Associate**  
+- **NPTEL: Blockchain and Its Applications** (Jan-Apr 2024)  
+- **AWS Academy: AI-ML Virtual Internship**  
+- **IBM Cognitive Class: JavaScript Certification**  
+- **Infosys Springboard: AI with Python**  
 
 ---
 
@@ -88,26 +113,36 @@ Gained foundational knowledge of **cloud computing**, **AWS** services, and thei
 
 ---
 
+## 🌍 Languages
+
+- **English**: Advanced  
+- **Hindi**: Fluent  
+- **Marathi**: Fluent  
+- **Telugu**: Advanced  
+
+---
+
+## 🎮 Hobbies
+
+- **Puzzle Solving**  
+- **Chess**  
+- **Video Games**
+
+---
+
 ## 📬 Let’s Connect!
 
 Feel free to reach out to me via:
 
-- **LinkedIn**: [Connect with me!](https://www.linkedin.com/in/ritikesh-machhewar-36381b179/)
-- **GitHub**: [Explore my projects!](https://github.com/ritikesh11052000)
-- **Email**: ritikeshmachhewar@gmail.com
-
----
-
-## 🎮 Fun Fact
-
-When I'm not coding, I'm either solving mind-bending **puzzles**, playing a strategic game of **chess**, or experiencing the thrills of **video games**! 🎮♟️  
-What’s your favorite game? Let’s talk strategy! 🧠✨
+- **LinkedIn**: [Connect with me!](https://www.linkedin.com/in/ritikesh-machhewar-36381b179/)  
+- **GitHub**: [Explore my projects!](https://github.com/ritikesh11052000)  
+- **Email**: ritikeshmachhewar@gmail.com  
 
 ---
 
 ## 📈 I'm Open To
 
-- **Internships** in **AI/ML**, **Data Science**, **software development**, and **Web Development**.
+- **Internships** in **AI/ML**, **Data Science**, **Software Development**, and **Web Development**.
 - **Collaborations** on **Open-Source** projects.
 - **Freelance Opportunities** for **Tech Startups** or **AI Projects**.
 
@@ -116,4 +151,3 @@ Let’s build something amazing together! 🚀
 ---
 
 **Fun fact**: I believe in continuous learning. **Every day is a new opportunity** to grow and contribute. 🌱
-
