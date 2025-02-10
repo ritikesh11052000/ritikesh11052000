@@ -62,7 +62,7 @@ I am a motivated and passionate individual, continuously seeking to apply and en
 | Business Intelligence Analyst                | AI/ML Researcher                            |
 | Software Engineer (Junior Role)              | AI Solutions Architect                      |
 | Tech Support Engineer (AI/ML/Cloud)          | QA Automation Engineer (AI/ML Systems)      |
-                             |
+
 
 I am open to exploring roles where I can apply my skills in **AI**, **Machine Learning**, **Data Science**, **Software Development**, and **Cloud Technologies**, and contribute to building innovative solutions.
 
