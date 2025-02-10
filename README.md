@@ -50,28 +50,19 @@ I am a motivated and passionate individual, continuously seeking to apply and en
 
 ## 📈 I'm Open To
 
-| **Role**                                                         | **Details**                                                                 |
-|------------------------------------------------------------------|---------------------------------------------------------------------------|
-| **Data Science Intern**                                           | Apply my skills in **data analysis** and **machine learning**.            |
-| **Machine Learning Engineer Intern**                              | Work on cutting-edge **ML algorithms** and models.                        |
-| **AI/ML Intern**                                                  | Focus on building **AI/ML applications** and systems.                     |
-| **Software Developer Intern**                                     | Gain hands-on experience in **software development**.                    |
-| **Python Developer**                                              | Develop applications and scripts using **Python**.                        |
-| **Full Stack Developer**                                          | Contribute to both **frontend** and **backend** development.              |
-| **Backend Developer (Python, Django)**                            | Work on building **server-side** logic using **Python** and **Django**.   |
-| **Cloud Solutions Intern (AWS)**                                  | Explore **cloud-based solutions** and services on AWS.                    |
-| **AI/Deep Learning Intern**                                        | Apply deep learning techniques to solve complex problems.                 |
-| **Blockchain Developer Intern**                                   | Work on **blockchain solutions** and distributed systems.                 |
-| **Frontend Developer (HTML, CSS, JavaScript, React)**             | Develop user-friendly interfaces using **React** and other web technologies. |
-| **Web Development Intern (Django, Flask)**                        | Build web applications with **Django** and **Flask**.                     |
-| **Data Analyst Intern**                                           | Analyze and interpret data to derive insights using **Python** and **SQL**.|
-| **Data Scientist**                                                | Work on advanced **data analysis** and **model building**.                |
-| **Business Intelligence Analyst**                                 | Use data visualization tools like **Power BI** and **Tableau**.            |
-| **AI/ML Researcher**                                              | Conduct research in **AI/ML** and contribute to innovations.              |
-| **Software Engineer (Junior Role)**                               | Contribute to software development projects in a junior capacity.         |
-| **AI Solutions Architect**                                         | Design and implement **AI-based solutions**.                              |
-| **Tech Support Engineer (AI/ML/Cloud-based solutions)**           | Provide technical support for AI/ML and cloud-based solutions.            |
-| **QA Automation Engineer (for AI/ML systems)**                   | Automate testing processes for AI/ML systems.                             |
+| **Role**                                      | **Role**                                      |
+|-----------------------------------------------|-----------------------------------------------|
+| Data Science Intern                          | Machine Learning Engineer Intern             |
+| AI/ML Intern                                 | Software Developer Intern                    |
+| Python Developer                             | Full Stack Developer                         |
+| Backend Developer (Python, Django)           | Cloud Solutions Intern (AWS)                 |
+| AI/Deep Learning Intern                      | Blockchain Developer Intern                  |
+| Frontend Developer (HTML, CSS, JavaScript)   | Web Development Intern (Django, Flask)      |
+| Data Analyst Intern                          | Data Scientist                               |
+| Business Intelligence Analyst                | AI/ML Researcher                            |
+| Software Engineer (Junior Role)              | AI Solutions Architect                      |
+| Tech Support Engineer (AI/ML/Cloud)          | QA Automation Engineer (AI/ML Systems)      |
+                             |
 
 I am open to exploring roles where I can apply my skills in **AI**, **Machine Learning**, **Data Science**, **Software Development**, and **Cloud Technologies**, and contribute to building innovative solutions.
 
