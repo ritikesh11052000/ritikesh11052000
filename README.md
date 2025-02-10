@@ -26,10 +26,54 @@ When I’m not coding, I’m solving **puzzles**, playing **chess**, or diving i
 
 I’m skilled in an array of tools and technologies and constantly learning new ones to build the future. Here’s what I love working with:
 
-### **🔧 Programming Languages & Tools**  
-| **Python** ![Python](https://img.icons8.com/color/48/000000/python.png) | **R** ![R](https://img.icons8.com/color/48/000000/r.png) | **C** ![C](https://img.icons8.com/color/48/000000/c-programming.png) | **C++** ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) | **Java** ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) | **Machine Learning** ![ML](https://img.icons8.com/color/48/000000/brain--v1.png) |
-|:-----------------------------------------------------------|:----------------------------------------------------|:-------------------------------------------------|:---------------------------------------------------------|:--------------------------------------------------|:---------------------------------------------------------|
-| **Front-End Development** ![Front-End](https://img.icons8.com/color/48/000000/source-code.png) | **Figma** ![Figma](https://img.icons8.com/color/48/000000/figma.png) | **Power BI** ![Power BI](https://img.icons8.com/color/48/000000/power-bi.png) | **Tableau** ![Tableau](https://img.icons8.com/color/48/000000/tableau-software.png) | **MS Excel** ![MS Excel](https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png) | **Database Management** ![Database](https://img.icons8.com/color/48/000000/database-restore.png) |
+### **🔧 Technical Skills**
+
+#### **Programming Languages:**
+- **Python**
+- **Java**
+- **C++**
+
+#### **Web Technologies:**
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Bootstrap**
+
+#### **Frameworks:**
+- **Django**
+- **Flask**
+
+#### **Database Management:**
+- **MySQL**
+- **MongoDB**
+- **SQL**
+- **DBMS**
+
+#### **Version Control:**
+- **Git**
+- **GitHub**
+
+#### **Testing Tools:**
+- **Selenium**
+- **JUnit**
+
+#### **Development Tools:**
+- **Android Studio**
+- **Tableau**
+- **Power BI**
+- **VS Code**
+- **Excel**
+
+#### **Cloud Platforms:**
+- **AWS** (Basics)
+
+---
+
+### **🌟 Soft Skills**
+
+- **Effective communication and teamwork**
+- **Strong analytical and problem-solving abilities**
+- **Adaptability and willingness to learn new technologies**
 
 ---
 
@@ -95,21 +139,12 @@ Implemented a **Blockchain-based** food supply chain management system, improvin
 
 ## 🏅 Certifications
 
-- **Salesforce Certified AI Specialist**  
-- **Salesforce Certified AI Associate**  
+- **[Salesforce Certified AI Specialist](https://www.linkedin.com/posts/ritikesh-machhewar-36381b179_salesforce-aispecialist-certified-activity-7273688816673046528-ze0A/?utm_source=share&utm_medium=member_desktop)**  
+- **[Salesforce Certified AI Associate](https://www.linkedin.com/posts/ritikesh-machhewar-36381b179_salesforce-aiassociate-salesforcecertified-activity-7276164269585428480-PYNv/?utm_source=share&utm_medium=member_desktop)**  
 - **NPTEL: Blockchain and Its Applications** (Jan-Apr 2024)  
 - **AWS Academy: AI-ML Virtual Internship**  
 - **IBM Cognitive Class: JavaScript Certification**  
 - **Infosys Springboard: AI with Python**  
-
----
-
-## 🌱 What I'm Learning Right Now
-
-- **Django**: Building web applications using Python! 🖥️  
-- **Flutter**: Exploring cross-platform mobile app development! 📱  
-- **Deep Learning**: Diving deeper into neural networks and **NLP** tasks! 🧠  
-- **AI in Fitness**: Creating a **Virtual Fitness Trainer** app! 💪  
 
 ---
 
@@ -142,11 +177,28 @@ Feel free to reach out to me via:
 
 ## 📈 I'm Open To
 
-- **Internships** in **AI/ML**, **Data Science**, **Software Development**, and **Web Development**.
-- **Collaborations** on **Open-Source** projects.
-- **Freelance Opportunities** for **Tech Startups** or **AI Projects**.
+- **Data Science Intern**
+- **Machine Learning Engineer Intern**
+- **AI/ML Intern**
+- **Software Developer Intern**
+- **Python Developer**
+- **Full Stack Developer**
+- **Backend Developer (Python, Django)**
+- **Cloud Solutions Intern (AWS)**
+- **AI/Deep Learning Intern**
+- **Blockchain Developer Intern**
+- **Frontend Developer (HTML, CSS, JavaScript, React)**
+- **Web Development Intern (Django, Flask)**
+- **Data Analyst Intern**
+- **Data Scientist**
+- **Business Intelligence Analyst**
+- **AI/ML Researcher**
+- **Software Engineer (Junior Role)**
+- **AI Solutions Architect**
+- **Tech Support Engineer (AI/ML/Cloud-based solutions)**
+- **QA Automation Engineer (for AI/ML systems)**
 
-Let’s build something amazing together! 🚀
+I am open to exploring roles where I can apply my skills in **AI**, **Machine Learning**, **Data Science**, **Software Development**, and **Cloud Technologies**, and contribute to building innovative solutions.
 
 ---
 
