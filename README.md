@@ -36,7 +36,7 @@ I am a motivated and passionate individual, continuously seeking to apply and en
 
 - **Diploma in Electronics & Telecommunication Engineering**
   - **Institute**: Sharad Institute of Technology Polytechnic, Ichalkaranji, Maharashtra
-  - **Percentage**: 87.53  
+  - **Percentage**: 87.53% 
   - **Completion Year**: 2021
 
 ---
