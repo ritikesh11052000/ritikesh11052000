@@ -2,7 +2,7 @@
 
 **Aspiring Data Scientist | Python Developer | Machine Learning Enthusiast | Cloud Solutions Intern**
 ---
-![Profile Picture](ritikesh.jpg)
+
 ---
 
 ## 👨‍💻 About Me
