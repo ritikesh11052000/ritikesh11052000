@@ -76,7 +76,7 @@
 - 📧 **Email**: ritikeshmachhewar@gmail.com
 - 💼 **LinkedIn**: [Ritikesh Machhewar](https://www.linkedin.com/in/ritikesh-machhewar-36381b179/)
 - 🖥️ **GitHub**: [Ritikesh Machhewar](https://github.com/ritikesh11052000)
-- 🌐 **Portfolio**: [My Portfolio](https://ritikesh11052000.github.io/Portfolio/)
+- 🌐 **Portfolio**: [My Portfolio](https://ritikesh-portfolio.onrender.com/)
 
 ---
 
